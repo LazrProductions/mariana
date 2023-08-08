@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "package": "com.lazrproductions.mariana.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "mixin.mariana.refmap.json",
+    "server": [
+    ],
+    "mixins": [
+
+    ],
+    "client": [
+    ],
+    "minVersion": "0.8"
+}
